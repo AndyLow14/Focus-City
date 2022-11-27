@@ -13,8 +13,10 @@ Platform ~
 Focus city is an Android Mobile Application written in Android Studio with Java.
 
 Installation ~
+The app can be installed via the [Google Play Store](https://play.google.com/store/apps/details?id=com.candy.focuscity)
+
 The app can be run through the Android Studio IDE or installing a APK file on a Android Device.
-1. Download the APK file from the provided Google Drive Link ~ https://drive.google.com/drive/folders/1hmUgQLBJ6f-H1CCggZg4fKXIz42qsTYv?usp=sharing
+1. Download the APK file from the provided [Google Drive Link](https://drive.google.com/drive/folders/1hmUgQLBJ6f-H1CCggZg4fKXIz42qsTYv?usp=sharing)
 2. Install the APK file on your Android device and enable "Install from Unknown Sources" in your device settings if prompted.
 3. Run the app as usual
 
