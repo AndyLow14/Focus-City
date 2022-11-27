@@ -4,7 +4,7 @@ CISSA Summerhack 2022
 
 Intro ~
 A productivity app with a twist, Focus City encourages you to stay focused by gamifying daily task scheduling. Improve your life and city at the same time!
-INTRODUCTION VIDEO HERE ~ https://drive.google.com/drive/folders/1hmUgQLBJ6f-H1CCggZg4fKXIz42qsTYv?usp=sharing
+[INTRODUCTION VIDEO HERE](https://drive.google.com/drive/folders/1hmUgQLBJ6f-H1CCggZg4fKXIz42qsTYv?usp=sharing)
 
 Intent ~
 Due to recent restrictions many of us have found it hard to be productive at home. Focus city helps us by making task taking a bit more fun and hopefully stray off from procrastinating on our phones all day.
